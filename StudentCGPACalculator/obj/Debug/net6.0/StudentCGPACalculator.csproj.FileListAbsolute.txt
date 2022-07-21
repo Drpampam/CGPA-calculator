@@ -1,0 +1,15 @@
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.csproj.AssemblyReference.cache
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.AssemblyInfoInputs.cache
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.AssemblyInfo.cs
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\bin\Debug\net6.0\StudentCGPACalculator.exe
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\bin\Debug\net6.0\StudentCGPACalculator.deps.json
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\bin\Debug\net6.0\StudentCGPACalculator.runtimeconfig.json
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\bin\Debug\net6.0\StudentCGPACalculator.dll
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\bin\Debug\net6.0\StudentCGPACalculator.pdb
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.dll
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\refint\StudentCGPACalculator.dll
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.pdb
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\StudentCGPACalculator.genruntimeconfig.cache
+C:\Users\DrPampam\source\repos\StudentCGPACalculator\StudentCGPACalculator\obj\Debug\net6.0\ref\StudentCGPACalculator.dll
